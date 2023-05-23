@@ -54,4 +54,8 @@ const locationsArray = [
     "West Virginia",
     "Wisconsin",
     "Wyoming"
-]
+];
+
+function loadStatesDropdown(locationArraySelecters) {
+    let stateName = "",
+}

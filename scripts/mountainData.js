@@ -91,7 +91,7 @@ const mountainsArray = [
         name: "Carter Dome",
         elevation: 4832,
         effort: "Strenuous",
-        img: "CDome-StoryImage.jpg",
+        img: "images/CDome-StoryImage.jpg",
         desc: "Carter Dome (4,832'), in the Carter-Moriah Range, offers dramatic, close-up views of Mount Washington and the Presidential Range from its northeastern shoulder, Mount Hight.",
         coords: {
             lat: 44.267268,

@@ -859,6 +859,7 @@ const nationalParksArray = [
     Fax: "(928) 674-5507",
     Latitude: 36.154448,
     Longitude: -109.552607,
+    Img: 'https://greerlodgeaz.com/wp-content/uploads/2016/02/canyon-de-chelly-1.jpg',
     Location: {
         coordinates: [
         -109.552607,

@@ -16,8 +16,12 @@
   <script defer src="/scripts/nationalParkData.js"></script>
   <script defer src="/scripts/locationData.js"></script>
   <script defer src="/scripts/nationalParks.js"></script>
+  <script defer src="/scripts/parkTypeData.js"></script>
+  <script defer src="/scripts/parkType.js"></script>
+  <script defer src="../scripts/dom.js"></script>
 </head>
 <body>
+  <div class="mask"></div>
   <header>
     <nav class="navbar navbar-expand-lg">
         <div class="container-fluid navigation">
@@ -35,29 +39,35 @@
         </div>
         </nav>
   </header>
-  <main class="container mt-3 p-4 p-md-5 border rounded-3 bg-body-tertiary">
+  <main class="container mt-3 p-4 p-md-5 border rounded-3 " id="search-bar">
     <div id="categorySelectionRow" class="row">
       <div class="col">
+        <div id="search-location">
         <label for="categorySelect">By location:</label>
         <select id="categorySelect">
-          <option value="">Select one</option>
+          <option id="select-by-location" value="0">Select by location</option>
          
         </select>
-        <div id="activitySelectionRow" class="row">
-          <div class="col">
+      </div>
+        <div id="search-type" class="row">
+          <div class="col" id="">
             <label for="activitySelect">By Park type:</label>
             <select id="activitySelect">
+              <option id="select-by-type" value="0">Select by type</option>
             </select>
           </div>
         </div>
+        <button type="submit" id="btn-reset">reset</button>
       </div>
     </div>
     <div id="activityDetailRow" class="row">
       
       </div>
+      <div class="main-data">
+        <section id="section"></section>
+        <section id="byType"></section>
+      </div>  
     </main>
-    <section id="section"></section>
-  
 </body>
 
 </html>

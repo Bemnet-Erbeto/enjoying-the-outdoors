@@ -25,38 +25,48 @@ function mountainChangeHandler(event) {
 
     const mountainByUserChoice = mountain => mountain.name === selectedMountain
     const selectedName = mountainsArray.find(mountainByUserChoice)
-    console.log(selectedName.elevation)
-    console.log(selectedName.img)
-    const mainElement = document.querySelector("main")
+
+    const mainElement = document.getElementById('mount-search')
     mainElement.replaceChildren()
 
-    
     
 
 const imageElemet = document.createElement("img")
             imageElemet.setAttribute('src', `./images/${selectedName.img}`)
+            imageElemet.setAttribute('class', 'mount-image')
             mainElement.append(imageElemet)
-
-
+            
+            
+            let pElHolder = document.createElement('div')
+            pElHolder.setAttribute('class', 'p-el-holder')
 
 
     
     for (const index in selectedName) {
-        const divOne = document.createElement('div')
+        const pEl = document.createElement('p')
+        pEl.setAttribute('class', 'chosen-mount-disc')
         let newIndex = index
         newIndex = newIndex.charAt(0).toUpperCase() + newIndex.slice(1, newIndex.length)
-        divOne.innerText = `${newIndex}: ${selectedName[index]}`
-        mainElement.append(divOne)
+        pEl.innerText = `${newIndex}: ${selectedName[index]}`
+
+        if (selectedName === undefined){
+            pEl.innerText = null
+    
+        } else {
+
         if (index === 'coords'){
-        divOne.innerText = `${newIndex}: Lat(${selectedName[index].lat}), Lng(${selectedName[index].lng})`
+        pEl.innerText = `${newIndex}: Lat(${selectedName[index].lat}), Lng(${selectedName[index].lng})`
 
         } else if(index === 'img'){
-            divOne.innerText = null
+            pEl.innerText = null
 
         }
+        pElHolder.append(pEl)
+        mainElement.append(pElHolder)
         
       }
-    
+    }
+     
 
 }
 mountainChangeHandler()

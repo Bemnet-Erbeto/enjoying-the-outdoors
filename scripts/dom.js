@@ -12,14 +12,12 @@ function byLocationClicked(){
     secondSelect.value = 0
     section2.style.display = 'none'
     section1.style.display = 'flex'
-console.log('loc')
 
 }
 function byTypeClicked(){
     firstSelect.value = 0
     section1.style.display = 'none'
     section2.style.display = 'flex'
-console.log('typ')
     
 }
 firstOption.onchange = byLocationClicked
@@ -31,3 +29,4 @@ reset.addEventListener('click', function(){
     firstSelect.value = 0
     section1.style.display = 'none'
 })
+

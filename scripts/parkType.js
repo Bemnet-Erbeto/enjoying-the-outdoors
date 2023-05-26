@@ -25,12 +25,27 @@ function selectByUserChose (event) {
     sectionByType.replaceChildren()
 
     for (let result of filteredResult){
+        
+        let pHolder = document.createElement('div')
+        pHolder.setAttribute('class', 'p-holder')
+
         let newDv = document.createElement('div')
         newDv.setAttribute('class', 'new-div')
+        
+        if (result.Img !== undefined){
+            let myImages = document.createElement('img')
+            myImages.setAttribute('src', result.Img)
+            myImages.setAttribute('class', 'searched-img')
+            newDv.append(myImages)
+        }
+        
+
         for (let results in result){
+            let linkEl = document.createElement('a')
             let createdElmt = document.createElement('p')
+
             if (results === 'Location'){
-                createdElmt.innerText = `${results}: coordinates(${result[results].coordinates.join(', ')}), type: ${result[results].type}`
+                createdElmt.innerText = `${results}: coordinates(${result[results].coordinates.join(', ')})`
 
             } else if(results === 'LocationID'){
                 let el = result[results].toUpperCase()
@@ -38,11 +53,9 @@ function selectByUserChose (event) {
                createdElmt.innerText = outPut;
 
             } else if(results === 'Visit'){
-                let linkEl = document.createElement('a')
                 linkEl.setAttribute('href', `${result[results]}`)
                 linkEl.setAttribute('target', '_blank')
-                linkEl.innerText = 'Click Here'
-                newDv.appendChild(linkEl)
+                linkEl.innerText = 'Visit Here'
 
             } else if (results === 'Address' ){
                 
@@ -52,14 +65,26 @@ function selectByUserChose (event) {
                 createdElmt.innerText = null
                 createdElmt.style.marginBottom = '0'
             }
+
+            else if (results === 'Latitude'){
+                createdElmt.innerText =null
+            }
+            else if (results === 'Longitude' || results === 'Img' || results === 'Fax'){
+                createdElmt.innerText =null
+            }
             
             else {
 
                 createdElmt.innerText = `${results}: ${result[results]}`
             }
-            newDv.append(createdElmt)
+            
+
+            pHolder.append(createdElmt)
+            pHolder.prepend(linkEl)
+            
+
         }
-       
+        newDv.append(pHolder)
         sectionByType.appendChild(newDv)
     }
 }

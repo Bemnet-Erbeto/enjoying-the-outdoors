@@ -71,7 +71,7 @@ function chosenStateHandler(event) {
             else if (parks === 'Visit') {
                 linkedElmt.setAttribute('href', `${arr[parks]}`)
                 linkedElmt.setAttribute('target', '_blank')
-                linkedElmt.innerText = 'Learn More'
+                linkedElmt.innerText = 'Visit Here'
                 myDiv.append(linkedElmt)
             }
             

@@ -27,24 +27,6 @@ function mountainChangeHandler(event) {
 
     const mainElement = document.getElementById('mount-search')
     mainElement.replaceChildren()
-
-   
- 
-
-    
-    
-    //   getSunriseSunsetData(arr.lat, arr.lng).then(data => {
-    //           let sunrise = data.results.sunrise;
-    //           let sunset = data.results.sunset;
-          
-    //     arr = {...arr, Sunrise: sunrise, Sunset: sunset}
-              
-    //     let thisDiv = document.getElementById('div')
-    //     thisDiv.classList.add('search-results')
-    //     selectedName.append(myDiv)      
-                  
-              
-    //         })
 const imageElemet = document.createElement("img")
             imageElemet.setAttribute('src', `./images/${selectedName.img}`)
             imageElemet.setAttribute('class', 'mount-image')

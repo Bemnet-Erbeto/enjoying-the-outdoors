@@ -16,8 +16,10 @@
 .mask {
     position: absolute;
     width: 100%;
+    min-width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.37);
+    /* min-width: 90px; */
 }
 
 .showcase {
@@ -38,23 +40,23 @@ footer {
     left: 50%;
     transform: translateX(-50%);
     bottom: 0;
-    height: 50px;
+    height: fit-content;
     width: 30%;
-    min-width:350px;
+    min-width:fit-content;
     max-width: 400px;    
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 12px;
-    background:#ffffff91;
+    background:#ffffff9d;
     border-radius: 40px 40px 0px 0px;
 }
 
 /* mountain page css */
 
 .mount {
-    background: url(./public/addedImg/mount-lg.jpg);
-    width: 100%;
+    background-image: url(./public/addedImg/mount-lg.jpg);
+    width: 100%;    
  
 }
 .main, .mount {
@@ -63,10 +65,14 @@ footer {
     background-size: cover;
     width: 100%;
     height: 100vh;
+    /* background-color: red !important; */
+
 }
 .add-col {
     background-color: #ffffffa2;
     backdrop-filter: blur(6px);
+    overflow-x: hidden;
+
 
 }
 #mount-search {
@@ -81,6 +87,9 @@ footer {
 }
 .p-el-holder p{
     margin:0;
+}
+.nav-force{
+    overflow: hidden;
 }
 @media screen and (max-width: 992px) {
     .mount{
@@ -106,5 +115,14 @@ footer {
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
+    }
+}
+
+
+
+    
+@media screen and (max-width: 700px){
+    footer {
+        border-radius: 0;
     }
 }

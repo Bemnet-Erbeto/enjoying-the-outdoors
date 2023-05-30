@@ -557,6 +557,7 @@ const nationalParksArray = [
     ZipCode: 34141,
     Phone: 0,
     Fax: "(239) 695-3901",
+    Img: "https://floridanationalparks.org/wp-content/uploads/2020/12/33293363073_7849cee171_k.jpg",
     Latitude: 25.898814,
     Longitude: -81.318701,
     Location: {
@@ -576,6 +577,7 @@ const nationalParksArray = [
     ZipCode: 37841,
     Phone: "(423) 286-7275",
     Fax: "(423) 569-5505",
+    Img: "https://peakvisor.com/photo/Big-South-Fork-National-River-Tennessee.jpg",
     Latitude: 36.4701139,
     Longitude: -84.6411206,
     Location: {
@@ -595,6 +597,7 @@ const nationalParksArray = [
     ZipCode: 77625,
     Phone: 0,
     Fax: "(409) 951-6718",
+    Img: "https://cdn.recreation.gov/public/2021/04/06/20/46/2590_d4034285-43a4-4889-9a76-29234cb31ce9_1440.jpeg",
     Latitude: 30.404128,
     Longitude: -94.415751,
     Location: {
@@ -614,6 +617,7 @@ const nationalParksArray = [
     ZipCode: 59035,
     Phone: "(307) 548-5406",
     Fax: "(406) 666-2415",
+    Img: "https://s3-us-west-2.amazonaws.com/montana-surveytoolimages/general/full-size/33746h.jpg",
     Visit: "https://www.nps.gov/bica/index.htm",
     Latitude: 45.312493,
     Longitude: -107.935565,
@@ -634,6 +638,7 @@ const nationalParksArray = [
     ZipCode: 33033,
     Phone: "(305) 230-7275",
     Fax: "(305) 230-1190",
+    Img: "https://www.nps.gov/bisc/planyourvisit/images/BISC-UW-250711-2_1.jpg?maxwidth=650&autorotate=false",
     Visit: "https://www.nps.gov/bisc/index.htm",
     Latitude: 25.4631936,
     Longitude: -80.3463139,
@@ -654,6 +659,7 @@ const nationalParksArray = [
     ZipCode: 81230,
     Phone: 0,
     Fax: "(970) 641-3127",
+    Img: "https://www.sweetlittlejourney.com/wp-content/uploads/2020/07/W6A2007-2.jpg",
     Visit: "https://www.nps.gov/blca/index.htm",
     Latitude: 38.4657461,
     Longitude: -107.16668,
@@ -694,6 +700,7 @@ const nationalParksArray = [
     ZipCode: 2110,
     Phone: "(617) 223-8666",
     Fax: "(617) 223-8671",
+    Img: "https://media.cntraveler.com/photos/5b4cfb13354ed17951b436d5/16:9/w_2560,c_limit/Boston-Harbor-Islands-National-Recreation-Area_GettyImages-90062145.jpg",
     Latitude: 42.3552589,
     Longitude: -71.050518,
     Location: {
@@ -713,6 +720,7 @@ const nationalParksArray = [
     ZipCode: 2129,
     Phone: 0,
     Fax: "(617) 242-6006",
+    Img: "https://www.nps.gov/bost/learn/news/images/DSCF4649.JPG",
     Latitude: 42.3747172,
     Longitude: -71.0540366,
     Location: {
@@ -732,6 +740,7 @@ const nationalParksArray = [
     ZipCode: 38804,
     Phone: 0,
     Fax: "(662) 680-4034",
+    Img: "https://www.nps.gov/common/uploads/cropped_image/primary/8CFC4D53-C949-F1E9-334A6DB34EE70647.jpg?width=1600&quality=90&mode=crop",
     Latitude: 34.307545,
     Longitude: -88.720974,
     Location: {
@@ -751,6 +760,7 @@ const nationalParksArray = [
     ZipCode: 66612,
     Phone: "(785) 354-4273",
     Fax: "(785) 354-7213",
+    Img: "https://ffnha.oncell.com/project-assets/6830/img/096ff2f73d28a52f2bacd46210a8ffc0b0d83434cd34ce7252a9bedf.jpg.644x428_q85.jpg",
     Latitude: 39.037925,
     Longitude: -95.676498,
     Location: {
@@ -790,6 +800,7 @@ const nationalParksArray = [
     ZipCode: 72601,
     Phone: "(870) 439-2502",
     Fax: "(870) 365-2701",
+    Img: "https://www.americanessence.com/wp-content/uploads/2022/08/ErnsstSkullBluffCanoe-scaled.jpg",
     Latitude: 36.2331995,
     Longitude: -93.1060044,
     Location: {
@@ -829,6 +840,7 @@ const nationalParksArray = [
     ZipCode: 84111,
     Phone: "(801) 741-1012",
     Fax: "(801) 741-1102",
+    Img: "https://findyourpark.com/sites/default/files/californianht_carlin-canyon_nv_nps.jpg",
     Latitude: 40.7620689,
     Longitude: -111.888922,
     Location: {
@@ -848,6 +860,7 @@ const nationalParksArray = [
     ZipCode: 32796,
     Phone: "(386) 428-3384 ext. 10",
     Fax: "(321) 264-2906",
+    Img: "https://www.nps.gov/cana/planyourvisit/images/IMG_0029_5.JPG",
     Latitude: 28.613144,
     Longitude: -80.8075783,
     Location: {
@@ -867,6 +880,7 @@ const nationalParksArray = [
     ZipCode: 71457,
     Phone: 0,
     Fax: "(318) 356-7285",
+    Img: "https://www.nps.gov/common/uploads/grid_builder/cari/crop16_9/04BA4A19-1DD8-B71B-0B2072E45EAB2D3A.jpg?width=640&quality=90&mode=crop",
     Latitude: 31.7398039,
     Longitude: -93.0835779,
     Location: {
@@ -925,6 +939,7 @@ const nationalParksArray = [
     ZipCode: 27954,
     Phone: "(252) 473-2111",
     Fax: "(252) 473-2595",
+    Img: "https://islandfreepress.org/wp-content/uploads/2023/01/avon-beach.jpg",
     Visit: "https://www.nps.gov/caha/index.htm",
     Latitude: 35.938547,
     Longitude: -75.712322,
@@ -965,6 +980,7 @@ const nationalParksArray = [
     ZipCode: 28531,
     Phone: 0,
     Fax: "(252) 728-2160",
+    Img: "https://www.outerbanks.com/images/22-900/cape-lookout-lighthouse-22.jpg",
     Latitude: 34.6881785,
     Longitude: -76.526505,
     Location: {
@@ -996,13 +1012,14 @@ const nationalParksArray = [
     },
     {
     LocationID: "CAJO",
-    LocationName: "Captain John Smith Chesapeake National Historic Trail",
+    LocationName: " Smith Chesapeakez National Historic Trail",
     Address: "NPS Chesapeake Bay Program Office, 410 Severn Avenue, Suite 314",
     City: "Annapolis",
     State: "Maryland",
     ZipCode: 21403,
     Phone: "(410) 260-2470",
     Fax: 0,
+    Img: "https://www.nps.gov/common/uploads/grid_builder/cajo/crop16_9/C8D640A4-1DD8-B71B-0B68AB2538609C85.png",
     Latitude: 38.971705,
     Longitude: -76.483576,
     Location: {
@@ -1100,6 +1117,7 @@ const nationalParksArray = [
     ZipCode: 32084,
     Phone: "(904) 829-6506",
     Fax: "(904) 823-9388",
+    Img: "https://cdn.britannica.com/33/128533-050-3C11AAE9/Castillo-de-San-Marcos-National-Monument-Florida.jpg",
     Latitude: 29.897989,
     Longitude: -81.312123,
     Location: {
@@ -1215,6 +1233,7 @@ const nationalParksArray = [
     ZipCode: 93001,
     Phone: "(805) 658-5730",
     Fax: "(805) 658-5799",
+    Img: "https://venturaharbor.com/wp-content/uploads/2021/12/whale-watching-11-WEB-2.jpg",
     Visit: "https://www.nps.gov/chis/index.htm",
     Latitude: 34.245852,
     Longitude: -119.2664691,
@@ -1254,6 +1273,7 @@ const nationalParksArray = [
     ZipCode: 30350,
     Phone: 0,
     Fax: 0,
+    Img: "https://upload.wikimedia.org/wikipedia/commons/1/16/East_Palisades.JPG",
     Latitude: 33.9968515,
     Longitude: -84.3338522,
     Location: {
@@ -1311,6 +1331,7 @@ const nationalParksArray = [
     ZipCode: 30742,
     Phone: "(706) 866-9241",
     Fax: "(423) 752-5215",
+    Img: "https://travel.usnews.com/images/GettyImages-1196839100.jpg",
     Latitude: 34.942377,
     Longitude: -85.259056,
     Location: {
@@ -1370,6 +1391,7 @@ const nationalParksArray = [
     ZipCode: 83312,
     Phone: 0,
     Fax: "(208) 824-5563",
+    Img: "https://www.nps.gov/common/uploads/grid_builder/ciro/crop16_9/FD2CDEEB-EACC-767B-790D18166CE807BD.jpg?width=640&quality=90&mode=crop",
     Latitude: 42.0774026,
     Longitude: -113.7037797,
     Location: {
@@ -1389,6 +1411,7 @@ const nationalParksArray = [
     ZipCode: 20812,
     Phone: 0,
     Fax: 0,
+    Img: "https://www.nps.gov/common/uploads/grid_builder/clba/crop16_9/D669A6EA-E992-0C9B-915582773EB8F702.jpg?width=640&quality=90&mode=crop",
     Latitude: 38.967151,
     Longitude: -77.1403459,
     Location: {
@@ -1408,6 +1431,7 @@ const nationalParksArray = [
     ZipCode: 81521,
     Phone: 0,
     Fax: "(970) 858-0372",
+    Img: "https://coloradoencyclopedia.org/sites/default/files/styles/large/public/Colorado-National-Monument-Colorado-John-Fielder.jpg?itok=2VHTKgJL",
     Latitude: 39.0556092,
     Longitude: -108.7007007,
     Location: {
@@ -1447,6 +1471,7 @@ const nationalParksArray = [
     ZipCode: 29323,
     Phone: 0,
     Fax: "(864) 461-7795",
+    Img: "https://npca.s3.amazonaws.com/images/9326/85714341-d266-4d66-bb17-5c6ae6a6362b-banner.jpg?1447790600",
     Latitude: 35.073993,
     Longitude: -81.8740202,
     Location: {
@@ -1486,6 +1511,7 @@ const nationalParksArray = [
     ZipCode: 83213,
     Phone: 0,
     Fax: "(208) 527-3073",
+    Img: "https://visitidaho.org/content/uploads/2017/03/Hiking-Craters-of-the-Moon-National-Monument-and-Preserve-Near-Arco.jpg",
     Latitude: 43.41665,
     Longitude: -113.5166497,
     Location: {
@@ -1505,6 +1531,7 @@ const nationalParksArray = [
     ZipCode: 40965,
     Phone: "(606) 248-2817",
     Fax: "(606) 248-7276",
+    Img: "https://media.wbir.com/assets/WBIR/images/8524cd67-89e1-4249-bda7-aca7034958dd/8524cd67-89e1-4249-bda7-aca7034958dd_750x422.jpg",
     Visit: "https://www.nps.gov/cuga/index.htm",
     Latitude: 36.602419,
     Longitude: -83.692026,
@@ -1525,6 +1552,7 @@ const nationalParksArray = [
     ZipCode: 31558,
     Phone: "(912) 882-4336 ext. 254",
     Fax: "(912) 882-6284",
+    Img: "https://i0.wp.com/www.hachettebookgroup.com/wp-content/uploads/2017/01/GA_CumberlandIslandMarsh_Posnov-iStock-481878496.jpg?resize=1024%2C768&ssl=1",
     Latitude: 30.7206567,
     Longitude: -81.5502296,
     Location: {
@@ -1544,6 +1572,7 @@ const nationalParksArray = [
     ZipCode: 81230,
     Phone: 0,
     Fax: "(970) 641-3127",
+    Img: "https://i0.wp.com/www.denverpost.com/wp-content/uploads/2021/08/TKN-L-Morrow-Point-Reservoir-03-768x576-1.jpeg?fit=620%2C9999px&ssl=1",
     Latitude: 38.4657461,
     Longitude: -107.16668,
     Location: {
@@ -1620,6 +1649,7 @@ const nationalParksArray = [
     ZipCode: 92328,
     Phone: "(760) 786-3200",
     Fax: "(760) 786-3283",
+    Img: "https://travelnevada.com/wp-content/uploads/2014/04/DVNP_Featured.jpg",
     Latitude: 36.5053891,
     Longitude: -117.0794082,
     Location: {
@@ -1658,6 +1688,7 @@ const nationalParksArray = [
     ZipCode: 99755,
     Phone: "(907) 683-2294",
     Fax: "(907) 683-9612",
+    Img: "https://cdn.britannica.com/07/94207-050-C78C0167/Autumn-vegetation-Denali-National-Park-and-Preserve.jpg",
     Visit: "https://www.nps.gov/dena/index.htm",
     Latitude: 63.7296854,
     Longitude: -148.766697,
@@ -1697,6 +1728,7 @@ const nationalParksArray = [
     ZipCode: 93546,
     Phone: 0,
     Fax: "(760) 934-4780",
+    Img: "https://roadtrippingcalifornia.com/wp-content/uploads/2020/12/Rainbow-Falls-Mammoth-Lakes-1.jpg",
     Latitude: 37.6146273,
     Longitude: -119.0852642,
     Location: {
@@ -1716,6 +1748,7 @@ const nationalParksArray = [
     ZipCode: 82714,
     Phone: 0,
     Fax: "(307) 467-5350",
+    Img: "https://www.nps.gov/common/uploads/grid_builder/deto/crop16_9/893914AB-C506-A2AD-D41690FD11B7B348.jpg?width=640&quality=90&mode=crop",
     Visit: "https://www.nps.gov/deto/index.htm",
     Latitude: 44.588333,
     Longitude: -104.698333,
@@ -1794,6 +1827,7 @@ const nationalParksArray = [
     ZipCode: 52146,
     Phone: "(563) 873-3491",
     Fax: "(800) 322-1704",
+    Img: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/58/b4/ac/effigy-mounds-national.jpg?w=1200&h=1200&s=1",
     Latitude: 43.139283,
     Longitude: -91.245468,
     Location: {
@@ -2022,6 +2056,7 @@ const nationalParksArray = [
     ZipCode: "11772-3596",
     Phone: 0,
     Fax: "(631) 289-4898",
+    Img: "https://www.nps.gov/fiis/planyourvisit/images/Things-To-Know-Before-You-Come_1.jpg?maxwidth=1300&maxheight=1300&autorotate=false",
     Latitude: 40.7552554,
     Longitude: -73.0168646,
     Location: {
@@ -2137,6 +2172,7 @@ const nationalParksArray = [
     ZipCode: 37058,
     Phone: 0,
     Fax: "(931) 232-4085",
+    Img: "https://www.nps.gov/im/cupn/images/20160509_112959.jpg?maxwidth=650&autorotate=false",
     Latitude: 36.4848862,
     Longitude: -87.8574308,
     Location: {
@@ -2194,6 +2230,7 @@ const nationalParksArray = [
     ZipCode: "67550-5357",
     Phone: 0,
     Fax: "(620) 285-3571",
+    Img: "https://149639602.v2.pressablecdn.com/wp-content/uploads/2021/09/3.1.x-VisitUs_ParkPage_FOLS_banner.jpg",
     Latitude: 38.189289,
     Longitude: -99.19959,
     Location: {
@@ -2308,6 +2345,7 @@ const nationalParksArray = [
     ZipCode: 66701,
     Phone: "(620) 223-0310",
     Fax: "(620) 223-0188",
+    Img: "https://i0.wp.com/www.parkchasers.com/wp-content/uploads/2020/03/Visitors-Center-at-Fort-Scott-NHS.jpg?resize=940%2C788",
     Latitude: 37.842788,
     Longitude: -94.705509,
     Location: {
@@ -2327,6 +2365,7 @@ const nationalParksArray = [
     ZipCode: 72902,
     Phone: 0,
     Fax: "(479) 783-5307",
+    Img: "https://www.nps.gov/common/uploads/grid_builder/fosm/crop16_9/C3CC5344-FF0E-DA6A-4855C025B14C6C9E.jpg?width=640&quality=90&mode=crop",
     Latitude: 35.387619,
     Longitude: -94.4290819,
     Location: {
@@ -2517,6 +2556,7 @@ const nationalParksArray = [
     ZipCode: 99726,
     Phone: "P.O. Box 30",
     Fax: "(907) 692-5400",
+    Img: "https://national-park.com/wp-content/uploads/2016/04/Welcome-to-Gates-of-the-Arctic-National-Park.jpg",
     Latitude: 67.251868,
     Longitude: -150.184189,
     Location: {
@@ -2574,6 +2614,7 @@ const nationalParksArray = [
     ZipCode: 47591,
     Phone: "(812) 882-1776 ext. 110",
     Fax: "(812) 882-7270",
+    Img: "https://visitvincennes.org/wp-content/uploads/2019/09/grc.jpg",
     Latitude: 38.6778773,
     Longitude: -87.5353188,
     Location: {
@@ -2593,6 +2634,7 @@ const nationalParksArray = [
     ZipCode: 64840,
     Phone: 0,
     Fax: "(417) 325-4231",
+    Img: "https://www.nps.gov/common/uploads/place/nri/20180824/places/39329289-FA7D-DD18-9FCFB493CCAB7943/39329289-FA7D-DD18-9FCFB493CCAB7943.jpg",
     Latitude: 36.9859501,
     Longitude: -94.3510047,
     Location: {
@@ -2612,6 +2654,7 @@ const nationalParksArray = [
     ZipCode: 17325,
     Phone: 0,
     Fax: "(717) 334-1891",
+    Img:"https://www.nationsclassroomtours.com/app/uploads/2021/02/Gettysburg-scaled.jpg",
     Visit: "https://www.nps.gov/gett/index.htm",
     Latitude: 39.8122032,
     Longitude: -77.2215251,
@@ -2632,6 +2675,7 @@ const nationalParksArray = [
     ZipCode: 88061,
     Phone: 0,
     Fax: "(575) 536-9344",
+    Img: "https://assets.simpleviewinc.com/simpleview/image/upload/crm/newmexico/Solstice-Morning-CD-Dec-22-15-Jan-Wei_21CB1163-FBED-4215-82C68FD144BFB62A_2df3c9c2-1d5e-43d9-a89aa1810887ed35.jpg",
     Visit: "https://www.nps.gov/gicl/index.htm",
     Latitude: 32.77,
     Longitude: -108.279999,
@@ -2652,6 +2696,7 @@ const nationalParksArray = [
     ZipCode: "99826-0140",
     Phone: 0,
     Fax: "(907) 697-2654",
+    Img: "https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2016-10/Glacier%20Bay.jpg?itok=V8OPRhhE",
     Visit: "https://www.nps.gov/glba/index.htm",
     Latitude: 58.8318772,
     Longitude: -136.9987946,
@@ -3017,6 +3062,7 @@ const nationalParksArray = [
     ZipCode: 83332,
     Phone: "(208) 933-4100",
     Fax: "(208) 837-4857",
+    Img: "https://www.nps.gov/im/ucbn/images/FD2635EA-1DD8-B71B-0BF77DE7208A02D0Original.jpg?maxwidth=1300&autorotate=false",
     Latitude: 42.7816632,
     Longitude: -114.9521998,
     Location: {
@@ -3036,6 +3082,7 @@ const nationalParksArray = [
     ZipCode: 96768,
     Phone: "(808) 572-4400",
     Fax: 0,
+    Img: "https://cdn.outsideonline.com/wp-content/uploads/2022/12/haleakala-crater-slidingsands_h.jpg",
     Latitude: 20.856944,
     Longitude: -156.313056,
     Location: {
@@ -3150,6 +3197,7 @@ const nationalParksArray = [
     ZipCode: "96718-0052",
     Phone: "(808) 985-6000",
     Fax: "(808) 985-6004",
+    Img: "https://national-park.com/wp-content/uploads/2016/04/Welcome-to-Hawaii-Volcanoes-National-Park.jpg",
     Latitude: 19.299004,
     Longitude: -155.3569573,
     Location: {
@@ -3169,6 +3217,7 @@ const nationalParksArray = [
     ZipCode: "52358-0607",
     Phone: "(319) 643-2541",
     Fax: "(319) 643-7864",
+    Img: "https://www.traveliowa.com/userdocs/places/7231_birthplace1.jpg?width=1920&format=jpg&autorotate=true",
     Latitude: 41.671985,
     Longitude: -91.346589,
     Location: {
@@ -3303,6 +3352,7 @@ const nationalParksArray = [
     ZipCode: 71901,
     Phone: "(501) 624-2701",
     Fax: "(501) 624-3458",
+    Img: "https://atlas-assets.roadtrippers.com/uploads/place_image/image/1026983339/-strip_-quality_60_-interlace_Plane_-resize_640x500_U__-gravity_center_-extent_640x500/place_image-image-39cf028e-632b-463d-93d2-d29261cdd157.jpg",
     Latitude: 34.5116392,
     Longitude: -93.0539835,
     Location: {
@@ -3360,6 +3410,7 @@ const nationalParksArray = [
     ZipCode: 53711,
     Phone: 0,
     Fax: "(608) 441-5606",
+    Img: "https://blog-assets.thedyrt.com/uploads/2018/11/shutterstock_1086953804-e1542066734975.jpg",
     Latitude: 43.049044,
     Longitude: -89.491477,
     Location: {
@@ -3398,6 +3449,7 @@ const nationalParksArray = [
     ZipCode: 46304,
     Phone: "(219) 926-7561 ext. 3",
     Fax: 0,
+    Img: "https://res.cloudinary.com/simpleview/image/upload/v1651859072/clients/indiana/18268237_1545884155476578_6285584681080936655_n_fb1ddac9-abfb-4cb7-9fb2-1fc6af6692be.jpg",
     Latitude: 41.6306,
     Longitude: -87.086864,
     Location: {
@@ -3665,6 +3717,7 @@ const nationalParksArray = [
     ZipCode: 96742,
     Phone: 0,
     Fax: "(808) 567-6729",
+    Img: "https://www.tripsavvy.com/thmb/gSajZpCdVa3FS_kh-W1mL-_niwc=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/sea-cliffs-834857634-183fbea66386454bb6b85de1cb5be01f.jpg",
     Latitude: 21.189792,
     Longitude: -156.980138,
     Location: {
@@ -3703,6 +3756,7 @@ const nationalParksArray = [
     ZipCode: 99613,
     Phone: "(907) 246-3305",
     Fax: "(907) 246-2116",
+    Img: "https://uploads.alaska.org/destinations/southwest-alaska/_1200x630_crop_center-center_82_none/Katmai-Natl-Park-Preserve.jpg?mtime=1590007559",
     Latitude: 58.756222,
     Longitude: -156.51724,
     Location: {
@@ -3722,6 +3776,7 @@ const nationalParksArray = [
     ZipCode: 99664,
     Phone: 0,
     Fax: "(907) 422-0571",
+    Img: "https://cdn.britannica.com/98/127698-050-5CDF8ECF/Kenai-Fjords-National-Park-Seward-Alaska.jpg",
     Latitude: 59.8463648,
     Longitude: -150.1844857,
     Location: {
@@ -3741,6 +3796,7 @@ const nationalParksArray = [
     ZipCode: 30152,
     Phone: 0,
     Fax: "(770) 528-8398",
+    Img: "https://www.nps.gov/common/uploads/grid_builder/kemo/crop16_9/5D7825D5-1DD8-B71B-0B8FF7F0B312AED7.jpg?width=640&quality=90&mode=crop",
     Latitude: 33.9830896,
     Longitude: -84.5780814,
     Location: {
@@ -3798,6 +3854,7 @@ const nationalParksArray = [
     ZipCode: 98104,
     Phone: "(206) 220-4240",
     Fax: "(206) 381-0664",
+    Img: "https://www.pioneersquare.org/images/uploads/detail_page_heroes/_full_width/klondike_1200x_535.jpg",
     Latitude: 47.5993181,
     Longitude: -122.3318109,
     Location: {
@@ -3817,6 +3874,7 @@ const nationalParksArray = [
     ZipCode: 99840,
     Phone: "(907) 983-9200",
     Fax: "(907) 983-9249",
+    Img: "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/77/50.jpg",
     Latitude: 59.54944,
     Longitude: -135.269027,
     Location: {
@@ -3836,6 +3894,7 @@ const nationalParksArray = [
     ZipCode: 58571,
     Phone: 0,
     Fax: 0,
+    Img: "https://upload.wikimedia.org/wikipedia/en/d/d5/Knife_River_Earthlodge.JPG",
     Latitude: 47.4003132,
     Longitude: -101.4864866,
     Location: {
@@ -3855,6 +3914,7 @@ const nationalParksArray = [
     ZipCode: 99752,
     Phone: "(907) 442-3760",
     Fax: "(907) 442-8316",
+    Img: "https://th-thumbnailer.cdn-si-edu.com/H30BQw7bMq6UIELr_F4EmbNSFiA=/fit-in/1072x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/0b/5e/0b5e38b9-9472-4633-8a29-875bc3645b31/42-24731074.jpg",
     Latitude: 67.146678,
     Longitude: -161.292928,
     Location: {
@@ -3874,6 +3934,7 @@ const nationalParksArray = [
     ZipCode: 99501,
     Phone: 0,
     Fax: 0,
+    Img: "https://static.horizonguides.com/images/_matrixImage/LakeClark.jpg",
     Latitude: 61.2173565,
     Longitude: -149.886172,
     Location: {
@@ -3990,6 +4051,7 @@ const nationalParksArray = [
     ZipCode: 47552,
     Phone: "(812) 937-4541",
     Fax: "(812) 937-9929",
+    Img: "https://www.nps.gov/libo/planyourvisit/images/DSC_1077.jpg?maxwidth=1300&autorotate=false",
     Latitude: 38.113702,
     Longitude: -86.999079,
     Location: {
@@ -4009,6 +4071,7 @@ const nationalParksArray = [
     ZipCode: "62701-1905",
     Phone: "(217) 492-4241",
     Fax: "(217) 492-4673",
+    Img: "https://files.idss.com/C116/a9468d98-d885-4d6a-9b3e-67732692036c.jpg",
     Latitude: 39.7981317,
     Longitude: -89.6451345,
     Location: {
@@ -4181,6 +4244,7 @@ const nationalParksArray = [
     ZipCode: 42259,
     Phone: 0,
     Fax: 0,
+    Img: "https://www.nps.gov/articles/000/images/31AE4F7F-1DD8-B71B-0BF11F0110B23707Original.jpg?maxwidth=650&autorotate=false",
     Latitude: 37.192189,
     Longitude: -86.121529,
     Location: {
@@ -4314,6 +4378,7 @@ const nationalParksArray = [
     ZipCode: 83332,
     Phone: 0,
     Fax: "(208) 837-4857",
+    Img: "https://www.conservationfund.org/images/Minidoka-National-Historic-Site_ID_c_Richard-Hannon-Photography201807304_-3.jpg",
     Latitude: 42.812124,
     Longitude: -114.898669,
     Location: {
@@ -4581,6 +4646,7 @@ const nationalParksArray = [
     ZipCode: 38804,
     Phone: 0,
     Fax: "(662) 680-4034",
+    Img: "https://www.nps.gov/common/uploads/grid_builder/natt/crop16_9/FD49899A-1DD8-B71B-0BD128907FBB8C3A.jpg?width=640&quality=90&mode=crop",
     Latitude: 34.307545,
     Longitude: -88.720974,
     Location: {
@@ -4640,6 +4706,7 @@ const nationalParksArray = [
     ZipCode: 96799,
     Phone: 0,
     Fax: "(684) 699-3986",
+    Img: "https://i.natgeofe.com/n/c7008ade-4fd7-4974-86cf-da3a6ba2972c/92925_16x9.jpg?w=1200",
     Latitude: -14.29129,
     Longitude: -170.696426,
     Location: {
@@ -4774,6 +4841,7 @@ const nationalParksArray = [
     ZipCode: 83540,
     Phone: "(208) 843-7001",
     Fax: "(208) 843-7003",
+    Img: "https://thehighcountryinn.com/wp-content/uploads/2019/08/NezPerceHistoricalPark.jpg",
     Visit: "https://www.nps.gov/nepe/index.htm",
     Latitude: 46.416175,
     Longitude: -116.797523,
@@ -4794,6 +4862,7 @@ const nationalParksArray = [
     ZipCode: "67625-3015",
     Phone: "(785) 839-4233",
     Fax: "(785) 839-4325",
+    Img: "https://www.parkrangerjohn.com/wp-content/uploads/2020/09/Epic-Guide-to-Nicodemus-National-Historic-Site-Kansas.jpg",
     Latitude: 39.393117,
     Longitude: -99.617178,
     Location: {
@@ -4851,6 +4920,7 @@ const nationalParksArray = [
     ZipCode: 99752,
     Phone: "(907) 442-3890",
     Fax: "(907) 442-8316",
+    Img: "https://cdn.britannica.com/22/152222-050-BFAA28F7/Noatak-River-National-Preserve-Alaska.jpg",
     Latitude: 66.898684,
     Longitude: -162.599068,
     Location: {
@@ -4870,6 +4940,7 @@ const nationalParksArray = [
     ZipCode: 98284,
     Phone: "(360) 854-7200",
     Fax: "(360) 856-1934",
+    Img: "https://www.nps.gov/noca/learn/news/images/north-cascades.jpg",
     Latitude: 48.5109531,
     Longitude: -122.2275204,
     Location: {
@@ -4889,6 +4960,7 @@ const nationalParksArray = [
     ZipCode: 53711,
     Phone: 0,
     Fax: "(608) 441-5606",
+    Img: "https://widnr.widen.net/content/7svhurziim/jpeg/Parks_Topic-Image_Pattison-Waterfall.jpg?w=870&h=580&keep=c&crop=yes&quality=80&x.app=portals",
     Latitude: 43.049044,
     Longitude: -89.491477,
     Location: {
@@ -5653,6 +5725,7 @@ const nationalParksArray = [
     ZipCode: "04609-0177",
     Phone: "(207) 454-3871",
     Fax: "(207) 288-8813",
+    Img: "https://c8.alamy.com/zooms/9/b6cc8e35a82e4fc689b3d9582501f15a/2d8hakm.jpg",
     Latitude: 44.3385559,
     Longitude: -68.2733346,
     Location: {
@@ -5997,6 +6070,7 @@ const nationalParksArray = [
     ZipCode: 99835,
     Phone: 0,
     Fax: "(907) 747-5938",
+    Img: "https://uploads.alaska.org/suppliers/attractions-and-points-of-interest/S/sitka-national-historic-park/_1600xAUTO_crop_center-center_65_none/sitka-national-historical-park-national-park-service-nps-alaska-untitled.jpg",
     Latitude: 57.0519805,
     Longitude: -135.3315533,
     Location: {
@@ -6588,6 +6662,7 @@ const nationalParksArray = [
     ZipCode: 830,
     Phone: "(340) 776-6201 ext. 238",
     Fax: "(340) 775-9592",
+    Img: "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2803,w_4200,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/Virgin_Islands_National_Park_tjblao.jpg",
     Latitude: 18.34215,
     Longitude: -64.767569,
     Location: {
@@ -6760,6 +6835,7 @@ const nationalParksArray = [
     ZipCode: 99573,
     Phone: 0,
     Fax: "(907) 822-7216",
+    Img: "https://upload.wikimedia.org/wikipedia/commons/0/05/Mt_Saint_Elias.jpg",
     Latitude: 61.5614999,
     Longitude: -143.8523096,
     Location: {
@@ -6876,6 +6952,7 @@ const nationalParksArray = [
     ZipCode: 99738,
     Phone: "(907) 547-2233",
     Fax: "(907) 547-2247",
+    Img: "https://www.nps.gov/yuch/planyourvisit/images/YUCH-20120907-JoshSpice-6279large.jpg",
     Latitude: 64.78943,
     Longitude: -141.202849,
     Location: {
